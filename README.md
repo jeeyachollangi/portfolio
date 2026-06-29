@@ -2,7 +2,7 @@
 
 A modern, premium dark-theme developer portfolio built with HTML5, CSS3, and JavaScript.
 
-🔗 **Live Site**: [https://jeeyachollangi.github.io/FUTURE_FS](https://jeeyachollangi.github.io/FUTURE_FS)
+[Live Site:](https://jeeyachollangi.github.io/FUTURE_FS_01/)
 
 ## Tech Stack
 - HTML5 (Semantic)
